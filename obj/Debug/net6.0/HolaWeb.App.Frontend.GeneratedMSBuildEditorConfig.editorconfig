@@ -15,12 +15,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jhoma\Desktop\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Clientes/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcTGlzdC5jc2h0bWw=
+[C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Clientes/ListCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcTGlzdENsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Empleados/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zXExpc3QuY3NodG1s
+[C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Empleados/ListEmpleado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zXExpc3RFbXBsZWFkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Error.cshtml]
@@ -43,8 +43,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29saWNpdHVkXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Tecnicos/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjbmljb3NcTGlzdC5jc2h0bWw=
+[C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Tecnicos/ListTecnicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjbmljb3NcTGlzdFRlY25pY29zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jhoma/Desktop/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/_ViewImports.cshtml]

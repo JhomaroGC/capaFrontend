@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HolaWeb.App.Frontend.Pages
 {
-    public class ListModel : PageModel
+    public class ListModelEmpleado : PageModel
     {
         public void OnGet()
         {
