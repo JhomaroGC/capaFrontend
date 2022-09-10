@@ -1,0 +1,22 @@
+﻿@page
+@model HolaWeb.App.Frontend.Pages.ListModel
+@{
+}
+
+<form method="POST" data-netlify="true" action="#">
+    <div class="mb-3">
+        <input type="email" class="form-control" id="email" name="email" placeholder="nombre@ejemplo.com">
+    </div>
+    <div class="mb-3">
+        <input type="input" class="form-control" id="name" name="name" placeholder="Daniel Lopez">
+    </div>
+    <div class="mb-3">
+        <input type="tel" class="form-control" id="phone" name="phone" placeholder="3123456788">
+    </div>
+    <div class="mb-3">
+        <textarea class="form-control" id="message" name="message" rows="4"></textarea>
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary w-100 fs-15">Enviar Mensaje</button>
+    </div>
+</form>
